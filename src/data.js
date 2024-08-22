@@ -1,17 +1,13 @@
 
 export const CVData = {
   personalData: {
-    name: 'S. Berkay Aydin',
-    title: 'Senior Software Developer',
+    name: 'Max Chen',
+    title: 'Senior Developer',
     image: 'https://bulma.io/images/placeholders/128x128.png',
     contacts: [
-      { type: 'email', value: 'john@example.com' },
-      { type: 'phone', value: '+00 (123) 456 78 90' },
-      { type: 'location', value: 'New York' },
-      { type: 'website', value: 'cv.sbaydin.com' },
-      { type: 'linkedin', value: 'linkedin.com/in/sbaydin' },
-      { type: 'twitter', value: 'twitter.com/sbayd' },
-      { type: 'github', value: 'github.com/sbayd' }
+      { type: 'email', value: 'maxyychen@gmail.com' },      
+      { type: 'location', value: 'Taipei' },            
+      { type: 'github', value: 'github.com/maxyychen' }
     ]
   },
   sections: [
