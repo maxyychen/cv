@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "watch": "parcel index.html",
-    "build": "parcel build --public-url /react-cv/"
+    "build": "parcel build --public-url /cv/"
   },
   "devDependencies": {
     "parcel": "^2.10.2",
