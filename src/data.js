@@ -2,8 +2,8 @@
 export const CVData = {
   personalData: {
     name: 'Max Chen',
-    title: 'Senior Developer',
-    image: 'https://bulma.io/images/placeholders/128x128.png',
+    title: 'Senior Architector/Developer/Data Scientist',
+    image: 'https://maxyychen.github.io/cv/max.png',
     contacts: [
       { type: 'email', value: 'maxyychen@gmail.com' },      
       { type: 'location', value: 'Taipei' },            
