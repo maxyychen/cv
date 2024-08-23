@@ -70,6 +70,47 @@ export const CVData = {
       ]
     },
     {
+      type: 'projects-list',
+      title: 'Projects',
+      description: 'Optional',
+      icon: 'tasks',
+      groups: [
+        {
+          sectionHeader: 'Company Name',
+          description: 'Optional',
+          items: [
+            { title: 'Project', projectUrl: 'optional', description: 'Optional' },
+            { title: 'Project', projectUrl: 'optional', description: 'Optional' },
+            { title: 'Project', projectUrl: 'optional', description: 'Optional' }
+          ]
+        }
+      ]
+    },
+    {
+      type: 'common-list',
+      title: 'Conferences & Certificates',
+      description: '',
+      icon: 'comments',
+      items: [
+        {
+          title: 'Some Conferences / 2019',
+          authority: 'SomeConf',
+          authorityWebSite: 'https://www.someconf.somesome'
+        },
+        {
+          title: 'Some Conferences / 2019',
+          authority: 'SomeConf',
+          authorityMeta: 'Speaker',
+          authorityWebSite: 'https://www.someconf.somesome',
+          rightSide: 'test'
+        },
+        {
+          title: 'Some Conferences / 2012',
+          authorityMeta: 'Speaker'
+        }
+      ]
+    },
+    {
       type: 'common-list',
       title: 'Languages',
       icon: 'language',
