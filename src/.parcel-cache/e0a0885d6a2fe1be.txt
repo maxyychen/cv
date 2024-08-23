@@ -1,14 +1,15 @@
-9720
+9722
 31/home/maxc/work/cv/src/index.js1724299540381543739 0
 35/home/maxc/work/cv/src/package.json1724300057021585913 0
 49/home/maxc/work/cv/src/dist/index.091fe7c8.js.map1724376415782819141 0
 45/home/maxc/work/cv/src/dist/index.091fe7c8.js1724376415759819139 0
 45/home/maxc/work/cv/src/dist/index.7bcf19fb.js1724374193740637754 0
-38/home/maxc/work/cv/src/dist/index.html1724376415758819139 0
+45/home/maxc/work/cv/src/dist/index.899fb527.js1724376880772857098 0
+38/home/maxc/work/cv/src/dist/index.html1724376880771857098 0
 50/home/maxc/work/cv/src/dist/index.5be0b71e.css.map1724300063732586461 0
 45/home/maxc/work/cv/src/dist/index.41ce785f.js1724300357872610471 0
 49/home/maxc/work/cv/src/dist/index.41ce785f.js.map1724300357888610473 0
-27/home/maxc/work/cv/src/dist1724376415783819141 1
+27/home/maxc/work/cv/src/dist1724376880789857100 1
 61/home/maxc/work/cv/src/node_modules/ordered-binary/index.d.ts1724291934964999000 0
 68/home/maxc/work/cv/src/node_modules/ordered-binary/.idea/modules.xml1724291934964999000 0
 56/home/maxc/work/cv/src/node_modules/ordered-binary/.idea1724299580781547037 1
@@ -5289,7 +5290,7 @@
 83/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/deviceorientation.js1724292821834000000 0
 85/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/keyboardevent-which.js1724292821834000000 0
 82/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faPause.d.ts1724292424496999000 0
-35/home/maxc/work/cv/src/data copy.js1724376400670817907 0
+35/home/maxc/work/cv/src/data copy.js1724376859928855397 0
 67/home/maxc/work/cv/src/node_modules/caniuse-lite/data/regions/GR.js1724292821834000000 0
 72/home/maxc/work/cv/src/node_modules/htmlnano/docs/docs/060-contribute.md1724291943267999000 0
 81/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/mutation-events.js1724292821834000000 0
@@ -6677,7 +6678,7 @@
 86/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faNewspaper.d.ts1724292424496999000 0
 57/home/maxc/work/cv/src/node_modules/prop-types/factory.js1724291932461999000 0
 46/home/maxc/work/cv/src/node_modules/parse-json1724299580711547031 1
-30/home/maxc/work/cv/src/data.js1724376352906814008 0
+30/home/maxc/work/cv/src/data.js1724376852002854750 0
 79/home/maxc/work/cv/src/node_modules/@parcel/core/node_modules/.bin/browserslist1724299617152550006 0
 92/home/maxc/work/cv/src/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1724299580841547042 1
 67/home/maxc/work/cv/src/node_modules/caniuse-lite/data/regions/ES.js1724292821834000000 0
@@ -8172,6 +8173,7 @@
 84/home/maxc/work/cv/src/node_modules/@fortawesome/free-brands-svg-icons/faDyalog.d.ts1724292424497999000 0
 85/home/maxc/work/cv/src/node_modules/react/cjs/react-jsx-dev-runtime.production.min.js1724291932730999000 0
 83/home/maxc/work/cv/src/node_modules/react/cjs/react.shared-subset.production.min.js1724291932730999000 0
+49/home/maxc/work/cv/src/dist/index.899fb527.js.map1724376880788857100 0
 81/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/urlsearchparams.js1724292821834000000 0
 84/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faMailReply.js1724292424496999000 0
 61/home/maxc/work/cv/src/node_modules/@parcel/fs/lib/browser.js1724291933484999000 0
