@@ -92,7 +92,7 @@ export const CVData = {
       type: 'tag-list',
       title: 'Skills Proficiency',
       icon: 'rocket',
-      items: ['React', 'Python', 'CSS', 'SQL', 'SomeTech', 'CoolTech']
+      items: ['React', 'Python', 'SQL', 'Docker', 'Linux', 'Kubernetes', 'Machine Learning', 'AI']
     },
     {
       type: 'tag-list',
