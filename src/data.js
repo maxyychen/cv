@@ -14,7 +14,7 @@ export const CVData = {
     {
       type: 'text',
       title: 'Career Profile',
-      content: `**When I was a child, I always wanted to be a developer.** \n\n #### I think I am now. \n\n Culpa proident ad officia minim Lorem sint excepteur irure culpa nisi aliquip nostrud.Laborum voluptate nostrud fugiat occaecat proident veniam excepteur pariatur amet ex sit.Anim aliquip do in commodo adipisicing.Nulla adipisicing nisi enim ullamco sunt veniam.Ullamco labore sunt Lorem veniam id et Lorem magna eiusmod aute. Aliquip minim est consectetur anim mollit aliqua ex elit do et nulla do. Cupidatat ad sunt cillum sint consectetur sunt cillum eiusmod ad esse aliqua. Aute anim elit amet in duis aute ipsum deserunt qui deserunt officia excepteur veniam. Et laboris nostrud est ipsum nulla fugiat deserunt magna velit irure. Ullamco duis ut magna ea tempor enim in ipsum.`,
+      content: `**I have a passion for staying on the cutting edge of technology, leveraging new advancements to solve problems. I particularly enjoy software architecture design, development, and data analysis—these are my areas of expertise and enthusiasm.`,
       icon: 'usertie'
     },
     {
@@ -23,49 +23,49 @@ export const CVData = {
       icon: 'graduation',
       items: [
         {
-          title: 'Computer Engineering (BS)',
-          authority: 'University',
-          authorityWebSite: 'https://sample.edu',
-          rightSide: '2013 - 2017'
-        },
-        {
-          title: 'Some Department (PHD)',
-          authority: 'Another University',
-          authorityWebSite: 'https://sample.edu',
-          rightSide: '2017 - Present'
+          title: 'Physics (MA)',
+          authority: 'National Central University',
+          authorityWebSite: 'https://www.ncu.edu.tw',
+          rightSide: '1998 - 2000'
         }
       ]
     },
     {
       type: 'experiences-list',
       title: 'Experiences',
-      description: 'Optional',
+      description: 'from developing software to managing IT teams',
       icon: 'archive',
       items: [
         {
-          title: 'Lead Software Developer',
-          company: 'Some Company Example INC',
-          description: 'I\'m working as a lead developer yeeeey!But wooo',
-          companyWebSite: 'http://somecompanyexample.com',
+          title: 'Chief (Department of Computing and Information)',
+          company: 'Sun Yat-Sen Cancer Center',
+          description: 'I\'m working as a head of the IT teams in a cancer hospital.',
+          companyWebSite: 'https://www.kfsyscc.org',
           companyMeta: '',
-          datesBetween: '2017.10 - Present',
-          descriptionTags: ['Javascript', 'React']
+          datesBetween: '2017.7 - Present',
+          descriptionTags: ['Micro Services', 'Kubernetes', 'AI', 'Machine Learning']
         },
         {
-          title: 'Software Developer',
-          company: 'Some Company Example INC',
-          description: 'I\'m using ReactJS and working as a front-end developer',
-          companyWebSite: 'http://somecompanyexample.com',
-          companyMeta: 'Little info about company',
-          datesBetween: '2016.8 - 2017.10'
+          title: 'IT Specialist',
+          company: 'Sun Yat-Sen Cancer Center',
+          description: 'Assist in information transformation, transitioning from traditional applications to web applications.',          
+          datesBetween: '2015.5 - 2017.6',
+          descriptionTags: ['React', 'Python', 'R']
         },
         {
-          title: 'Intern',
-          company: 'Some Software Example INC',
-          description: 'I was warming up.',
-          companyWebSite: 'http://someexamplecompany.com',
-          companyMeta: 'SF USA',
-          datesBetween: '2012.06 - 2012.10'
+          title: 'Technology Head',
+          company: 'Risksoft',
+          description: 'I lead a team and responsible for the development of the company\'s core products.',
+          companyWebSite: 'https://www.risksoft.com',          
+          datesBetween: '2013.7 - 2015.4',
+          descriptionTags: ['Quantitative', 'Algorithm', 'Data Warehouse', 'Machine Learning']
+        },
+        {
+          title: 'Strategist',
+          company: 'ICE Technology',
+          description: 'I was responsible for the development of the company\'s core products.',
+          companyWebSite: 'http://www.icetech.com.tw/',          
+          datesBetween: '2009.8 - 2013.2'
         }
       ]
     },
@@ -116,6 +116,10 @@ export const CVData = {
       icon: 'language',
       items: [
         {
+          authority: 'Chinese',
+          authorityMeta: 'Professional'
+        },
+        {
           authority: 'English',
           authorityMeta: 'Professional'
         },
@@ -129,13 +133,13 @@ export const CVData = {
       type: 'tag-list',
       title: 'Skills Proficiency',
       icon: 'rocket',
-      items: ['React', 'Javascript', 'CSS', 'SQL', 'SomeTech', 'CoolTech']
+      items: ['React', 'Python', 'CSS', 'SQL', 'SomeTech', 'CoolTech']
     },
     {
       type: 'tag-list',
       title: 'Hobbies & Interests',
       icon: 'cubes',
-      items: ['Photography', 'Poetry']
+      items: ['Hiking', 'Cycling', 'Trraveling']
     }
   ]
 }
