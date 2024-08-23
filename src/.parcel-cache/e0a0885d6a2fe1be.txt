@@ -1,11 +1,11 @@
-9713
+9715
 31/home/maxc/work/cv/src/index.js1724299540381543739 0
 35/home/maxc/work/cv/src/package.json1724300057021585913 0
-38/home/maxc/work/cv/src/dist/index.html1724300357871610471 0
+38/home/maxc/work/cv/src/dist/index.html1724373977914620136 0
 50/home/maxc/work/cv/src/dist/index.5be0b71e.css.map1724300063732586461 0
 45/home/maxc/work/cv/src/dist/index.41ce785f.js1724300357872610471 0
 49/home/maxc/work/cv/src/dist/index.41ce785f.js.map1724300357888610473 0
-27/home/maxc/work/cv/src/dist1724300357888610473 1
+27/home/maxc/work/cv/src/dist1724373977929620137 1
 61/home/maxc/work/cv/src/node_modules/ordered-binary/index.d.ts1724291934964999000 0
 68/home/maxc/work/cv/src/node_modules/ordered-binary/.idea/modules.xml1724291934964999000 0
 56/home/maxc/work/cv/src/node_modules/ordered-binary/.idea1724299580781547037 1
@@ -983,6 +983,7 @@
 85/home/maxc/work/cv/src/node_modules/@fortawesome/free-brands-svg-icons/faHubspot.d.ts1724292424497999000 0
 83/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faSdCard.d.ts1724292424496999000 0
 85/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faFaceSadCry.js1724292424496999000 0
+49/home/maxc/work/cv/src/dist/index.4d248ca0.js.map1724373977929620137 0
 87/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faJetFighter.d.ts1724292424496999000 0
 79/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faWorm.js1724292424496999000 0
 86/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faStopwatch20.js1724292424496999000 0
@@ -5122,6 +5123,7 @@
 72/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/webgl2.js1724292821834000000 0
 67/home/maxc/work/cv/src/node_modules/caniuse-lite/data/regions/TC.js1724292821834000000 0
 81/home/maxc/work/cv/src/node_modules/caniuse-lite/data/features/css-caret-color.js1724292821834000000 0
+45/home/maxc/work/cv/src/dist/index.4d248ca0.js1724373977914620136 0
 81/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faBiking.js1724292424496999000 0
 87/home/maxc/work/cv/src/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1724291944092000000 0
 62/home/maxc/work/cv/src/node_modules/csso/lib/replace/Number.js1724291944164000000 0
@@ -6673,7 +6675,7 @@
 86/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faNewspaper.d.ts1724292424496999000 0
 57/home/maxc/work/cv/src/node_modules/prop-types/factory.js1724291932461999000 0
 46/home/maxc/work/cv/src/node_modules/parse-json1724299580711547031 1
-30/home/maxc/work/cv/src/data.js1724300340262609034 0
+30/home/maxc/work/cv/src/data.js1724373908417614463 0
 79/home/maxc/work/cv/src/node_modules/@parcel/core/node_modules/.bin/browserslist1724299617152550006 0
 92/home/maxc/work/cv/src/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1724299580841547042 1
 67/home/maxc/work/cv/src/node_modules/caniuse-lite/data/regions/ES.js1724292821834000000 0
@@ -6801,7 +6803,7 @@
 84/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faArrowUp.d.ts1724292424496999000 0
 67/home/maxc/work/cv/src/node_modules/scheduler/unstable_post_task.js1724291932766999000 0
 82/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faBandage.js1724292424496999000 0
-22/home/maxc/work/cv/src1724300387438612885 1
+22/home/maxc/work/cv/src1724373884145612481 1
 79/home/maxc/work/cv/src/node_modules/lmdb/dependencies/lz4/lib/lz4frame_static.h1724291934331000000 0
 55/home/maxc/work/cv/src/node_modules/react-dom/README.md1724291932743999000 0
 85/home/maxc/work/cv/src/node_modules/@fortawesome/free-brands-svg-icons/faNfcSymbol.js1724292424497999000 0
