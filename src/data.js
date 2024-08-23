@@ -2,7 +2,7 @@
 export const CVData = {
   personalData: {
     name: 'Max Chen',
-    title: 'Senior Architector/Developer/Data Scientist',
+    title: 'Architector\nDeveloper\nData Scientist',
     image: 'https://maxyychen.github.io/cv/max.png',
     contacts: [
       { type: 'email', value: 'maxyychen@gmail.com' },      

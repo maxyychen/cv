@@ -1,11 +1,12 @@
-9715
+9717
 31/home/maxc/work/cv/src/index.js1724299540381543739 0
 35/home/maxc/work/cv/src/package.json1724300057021585913 0
-38/home/maxc/work/cv/src/dist/index.html1724373977914620136 0
+45/home/maxc/work/cv/src/dist/index.7bcf19fb.js1724374193740637754 0
+38/home/maxc/work/cv/src/dist/index.html1724374193740637754 0
 50/home/maxc/work/cv/src/dist/index.5be0b71e.css.map1724300063732586461 0
 45/home/maxc/work/cv/src/dist/index.41ce785f.js1724300357872610471 0
 49/home/maxc/work/cv/src/dist/index.41ce785f.js.map1724300357888610473 0
-27/home/maxc/work/cv/src/dist1724373977929620137 1
+27/home/maxc/work/cv/src/dist1724374193757637755 1
 61/home/maxc/work/cv/src/node_modules/ordered-binary/index.d.ts1724291934964999000 0
 68/home/maxc/work/cv/src/node_modules/ordered-binary/.idea/modules.xml1724291934964999000 0
 56/home/maxc/work/cv/src/node_modules/ordered-binary/.idea1724299580781547037 1
@@ -6675,7 +6676,7 @@
 86/home/maxc/work/cv/src/node_modules/@fortawesome/free-solid-svg-icons/faNewspaper.d.ts1724292424496999000 0
 57/home/maxc/work/cv/src/node_modules/prop-types/factory.js1724291932461999000 0
 46/home/maxc/work/cv/src/node_modules/parse-json1724299580711547031 1
-30/home/maxc/work/cv/src/data.js1724373908417614463 0
+30/home/maxc/work/cv/src/data.js1724374181170636728 0
 79/home/maxc/work/cv/src/node_modules/@parcel/core/node_modules/.bin/browserslist1724299617152550006 0
 92/home/maxc/work/cv/src/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1724299580841547042 1
 67/home/maxc/work/cv/src/node_modules/caniuse-lite/data/regions/ES.js1724292821834000000 0
@@ -7956,6 +7957,7 @@
 62/home/maxc/work/cv/src/node_modules/lightningcss-linux-x64-gnu1724299580696547030 1
 48/home/maxc/work/cv/src/node_modules/@swc/helpers1724299580688547029 1
 56/home/maxc/work/cv/src/node_modules/is-json/package.json1724291946023000000 0
+49/home/maxc/work/cv/src/dist/index.7bcf19fb.js.map1724374193756637755 0
 52/home/maxc/work/cv/src/node_modules/is-json/index.js1724291946023000000 0
 103/home/maxc/work/cv/src/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi108.glibc.node1724291936786000000 0
 57/home/maxc/work/cv/src/node_modules/is-json/test/index.js1724291946023000000 0
